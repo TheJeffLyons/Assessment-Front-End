@@ -1,0 +1,60 @@
+body {
+  background: rgba(0, 0, 0, 0.705);
+  color: whitesmoke;
+  margin: 1rem;
+  max-width: 500px;
+  margin: 0rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 6px solid rgb(231, 111, 231);
+	background-image: url("https://c4.wallpaperflare.com/wallpaper/299/830/530/squirt-background-paint-colors-wallpaper-preview.jpg");
+	background-size: cover;
+	padding-bottom: 30px;
+	text-align: center;
+	
+	
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+	text-decoration: none;
+	
+	
+}
+
+a:visited {
+	color: rgb(0, 0, 0);
+	
+	
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.buttonsChange {
+	background-color: yellow;
+	max-width: 20%;
+	
+}
+
+.lastButton {
+	background-color: rgb(145, 190, 54);
+	color: rgb(0, 0, 0)
+}
